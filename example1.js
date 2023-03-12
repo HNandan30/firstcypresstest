@@ -3,9 +3,6 @@
 <head>
 <title>Page Title</title>
 <style>
-width: 400px;
-height: 400px;
-margine: 20px;
 background: red;
 </style>
 </head>
